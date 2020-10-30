@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_shopify_s	ac25466a-7af0-4af1-ad1f-f9c7560c93b7
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_shopify_fs	2020-10-30T07%3A29%3A09Z
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_s	ac25466a-7af0-4af1-ad1f-f9c7560c93b7
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_shopify_y	aa050b3f-50fc-4e4d-bd06-3c8a69c7110c
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	_y	aa050b3f-50fc-4e4d-bd06-3c8a69c7110c
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	cart_sig	beabe733eb90ad9242e6d820f6f00021
+yourlovelydecors.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
